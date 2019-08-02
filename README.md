@@ -60,4 +60,4 @@
 
 ## 附加
 
-- [书签栏保存链接](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%20%E5%9F%BA%E7%A1%80/Java%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
+- [书签栏保存链接](Other/mds/Java学习总结.md)
